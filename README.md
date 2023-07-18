@@ -12,6 +12,6 @@ This Java program generates a random 4-digit PIN (Personal Identification Number
 4. Run the program (Junit)
 `java PinGeneratorTests.java`
 
-The junit assert if the batch is of 1000 and the generated pin are 4 digit numbers
+The junit assert if the batch is of 1000 and the generated pins are 4 digit numbers
 
 
